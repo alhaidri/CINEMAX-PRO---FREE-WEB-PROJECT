@@ -2,7 +2,7 @@
 
 > **تجربة سينمائية لا مثيل لها — مباشرة في متصفحك!**
 
-![CINEMAX PRO Preview](https://drive.google.com/file/d/1KS1v5ef6ynJdS-lBNcpAilyf3Gbv38fR/view)  
+![CINEMAX PRO Preview]https://drive.google.com/file/d/1KS1v5ef6ynJdS-lBNcpAilyf3Gbv38fR/view 
 *(يمكنك استبدال هذا الرابط بصورة حقيقية عند رفع المشروع)*
 
 CINEMAX PRO هو مشروع واجهة ويب تفاعلي بالكامل لمنصة بث أفلام ومسلسلات، مصمم خصيصًا للغة العربية (يدعم **RTL**) ويقدم تجربة مستخدم سينمائية غنية بالمؤثرات والتفاعل.
